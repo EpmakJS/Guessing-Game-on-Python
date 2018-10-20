@@ -1,4 +1,4 @@
-secret_word = "Spooky"
+secret_word = input("Enter secret word here: ")
 guess = ""
 guess_count = 0
 out_of_guess = False
